@@ -1,5 +1,5 @@
 ---
-title: "Plano amostral - proj. vacinas"
+title: "Plano amostral do proj. vacinas"
 output: html_document
 ---
 
