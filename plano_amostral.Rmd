@@ -4,3 +4,10 @@ output: html_document
 ---
 
 
+## Local de estudo:
+
+Na etapa I do projeto (metodológico), cada instrumento será desenvolvido em escolas públicas e privadas de um dos seguintes municípios: Palmas, Paraná (48.247 habitantes) e Sinop (196.312 habitantes);  uma vez que a etapa II não pode ser desenvolvida com os mesmos participantes da I. Então, a etapa II será desenvolvida em cinco capitais, sendo uma de cada região brasileira, nomeadamente: Cuiabá (650.912 habitantes), Macapá (442.933 habitantes), Teresina (866.300 habitantes), Vitória (322.869 habitantes) e Curitiba (1.773.733 habitantes); sendo que, a validação do roteiro e dos materiais  para a intervenção educativa será realizada em Sinop, Mato Grosso (196.312 habitantes) (IBGE, 2023).
+
+## População de estudo:
+
+Adolescentes matriculados em escolas públicas e privadas, com idade entre 10 e 19 anos.
